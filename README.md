@@ -1,6 +1,6 @@
 ### Hi there, I'm Emily 👋
 ---
-#### 🔭 I’m a software engineer working on John Deere sprayers.
+### 🔭 I’m a software engineer working on John Deere sprayers.
 
 <img src="https://www.deere.com/assets/images/region-4/products/application-equipment/r4038-sprayer/r4038_sprayer_r4a038560_large_99adbe0ec7da04e05e27870cb564e25c53d84643.jpg" alt="John Deere Sprayer" width="350px">
 
@@ -14,12 +14,11 @@
 <img src="https://skywell.software/wp-content/uploads/2019/01/javascript-vs-html-vs-css-1024x683.jpg" alt="CSS3 HTML5 and JavaScript logo side by side" width="350px">
 
 ---
-#### 📫 How to reach me: emily.daitch@gmail.com, Twitter [@EmilyDevelops](https://twitter.com/EmilyDevelops)
-#### 😄 Pronouns: she/her
+### 📫 How to reach me: emily.daitch@gmail.com, Twitter [@EmilyDevelops](https://twitter.com/EmilyDevelops)
+### 😄 Pronouns: she/her
 
-<br><br>
-##### Additional Info:
-##### Web Development group: I am not a web developer, nor do I possess the training to be. I am just now learning basic JavaScript. I strated this group when I was inspired by the community of web-dev Twitter and wanted to experience a new side of tech, while providing a moderated and safe space for beginners to ask beginner questions. We operate through discord, and are always adding new people, so let me know if you would like to join! 
+#### Additional Info:
+#### Web Development group: I am not a web developer, nor do I possess the training to be. I am just now learning basic JavaScript. I strated this group when I was inspired by the community of web-dev Twitter and wanted to experience a new side of tech, while providing a moderated and safe space for beginners to ask beginner questions. We operate through discord, and are always adding new people, so let me know if you would like to join! 
 
 <!--
 **emilydaitch/emilydaitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
