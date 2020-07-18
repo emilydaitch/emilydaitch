@@ -1,10 +1,18 @@
 ### Hi there, I'm Emily 👋
-#### 🔭 I’m currently working with embedded software on John Deere sprayers
-#### 🌱 I’m currently learning JavaScript for fun.
+---
+#### 🔭 I’m a software engineer working on John Deere sprayers.
+![Image](https://www.deere.com/assets/images/region-4/products/application-equipment/r4038-sprayer/r4038_sprayer_r4a038560_large_99adbe0ec7da04e05e27870cb564e25c53d84643.jpg)
 #### 👯 I’m looking to contribute to microcontroller libraries. I made a teeny tiny PR to https://github.com/hexeguitar/CH55x_python_flasher which I'm counting as my first OSS contributtion ever.
-#### 💬 Ask me about my web development beginner study group! We are 27 large and meet on zoom every other week for code pairing on eachothers projects or challenge problems.
-#### 📫 How to reach me: emily.daitch@gmail.com, Twitter @EmilyDevelops
+![Image](https://s5.electrodragon.com/wp-content/uploads/2018/04/CH559-Mini-DEV-Board-CH55x-Series-03-768x596.jpg)
+##### This is the CH559 referred to in the linked repo.
+#### 💬 Ask me about my beginner web development study group! We are 27 large and meet on zoom every other week for code pairing on eachothers projects or challenge problems.
+---
+#### 📫 How to reach me: emily.daitch@gmail.com, Twitter [@EmilyDevelops](https://twitter.com/EmilyDevelops)
 #### 😄 Pronouns: she/her
+
+<br><br>
+##### Additional Info:
+##### Web Development group: I am not a web developer, nor do I possess the knowledge or skills to be. I am just now learning basic JavaScript. I strated this group when I was inspired by the community of web-dev Twitter and wanted to experience a new side of tech, while providing a moderated and safe space for beginners to ask beginner questions. We operate through discord, and are always adding new people, so let me know if you would like to join! 
 
 <!--
 **emilydaitch/emilydaitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +27,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--
