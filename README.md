@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Emily 👋
+#### 🔭 I’m currently working with embedded software on John Deere sprayers
+#### 🌱 I’m currently learning JavaScript for fun.
+#### 👯 I’m looking to contribute to microcontroller libraries. I made a teeny tiny PR to https://github.com/hexeguitar/CH55x_python_flasher which I'm counting as my first OSS contributtion ever.
+#### 💬 Ask me about my web development beginner study group! We are 27 large and meet on zoom every other week for code pairing on eachothers projects or challenge problems.
+#### 📫 How to reach me: emily.daitch@gmail.com, Twitter @EmilyDevelops
+#### 😄 Pronouns: she/her
 
 <!--
 **emilydaitch/emilydaitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
