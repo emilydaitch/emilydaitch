@@ -8,7 +8,7 @@
 
 <img src="https://s5.electrodragon.com/wp-content/uploads/2018/04/CH559-Mini-DEV-Board-CH55x-Series-03-768x596.jpg" alt="CH559 MCU Development Board" width="350px">
 
-##### This is the CH559 referred to in the linked repo.
+#####  - This is the CH559 referred to in the linked repo.
 #### 💬 Ask me about my beginner web development study group! We are 27 large and meet on zoom every other week for code pairing on eachothers projects or challenge problems.
 
 <img src="https://skywell.software/wp-content/uploads/2019/01/javascript-vs-html-vs-css-1024x683.jpg" alt="CSS3 HTML5 and JavaScript logo side by side" width="350px">
