@@ -4,7 +4,7 @@
 
 <img src="https://www.deere.com/assets/images/region-4/products/application-equipment/r4038-sprayer/r4038_sprayer_r4a038560_large_99adbe0ec7da04e05e27870cb564e25c53d84643.jpg" alt="John Deere Sprayer" width="350px">
 
-#### 👯 I’m looking to contribute to microcontroller libraries. I made a teeny tiny PR to https://github.com/hexeguitar/CH55x_python_flasher which I'm counting as my first OSS contributtion ever.
+#### 👯 I’m looking to contribute to microcontroller libraries. I made a teeny tiny PR to [the CH559 Python Flasher](https://github.com/hexeguitar/CH55x_python_flasher) which I'm counting as my first OSS contributtion ever.
 
 <img src="https://s5.electrodragon.com/wp-content/uploads/2018/04/CH559-Mini-DEV-Board-CH55x-Series-03-768x596.jpg" alt="CH559 MCU Development Board" width="350px">
 
