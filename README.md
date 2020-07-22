@@ -19,7 +19,7 @@
 #### Additional Info:
 #### Web Development group: I am not a web developer, nor do I possess the training to be. I am just now learning basic JavaScript. I strated this group when I was inspired by the community of web-dev Twitter and wanted to experience a new side of tech, while providing a moderated and safe space for beginners to ask beginner questions. We operate through discord, and are always adding new people, so let me know if you would like to join! 
 
-#### I host a WIP portfolio as a github page at https://emilydaitch.github.io/. It uses Jekyll and the [Jekyll Now](https://github.com/barryclark/jekyll-now) repository.
+#### I host a WIP portfolio as a github page at https://emilydaitch.github.io/about. It uses Jekyll and the [Jekyll Now](https://github.com/barryclark/jekyll-now) repository.
 
 <!--
 **emilydaitch/emilydaitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
