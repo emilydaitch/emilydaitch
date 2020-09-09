@@ -1,6 +1,9 @@
 ### Hi there, I'm Emily 👋
 ---
-### 🔭 I’m a software engineer working on John Deere sprayers.
+
+### 🔭 I’m a software engineer working on large, rugged, outdoor displays by Manufacturing Resources International.
+
+### 🔭 I used to write software for John Deere sprayers.
 
 <img src="https://www.deere.com/assets/images/region-4/products/application-equipment/r4038-sprayer/r4038_sprayer_r4a038560_large_99adbe0ec7da04e05e27870cb564e25c53d84643.jpg" alt="John Deere Sprayer" width="350px">
 
